@@ -1,0 +1,11 @@
+net\draconia\contactlist\domain\Phone.class
+net\draconia\ui\menu\actions\NewList.class
+net\draconia\contactlist\domain\ContactList.class
+net\draconia\contactlist\ui\ContactListDetailDialog.class
+net\draconia\contactlist\ui\ContactListMainForm.class
+net\draconia\contactlist\domain\Contact.class
+net\draconia\contactlist\domain\Address.class
+net\draconia\contactlist\domain\Model.class
+net\draconia\contactlist\domain\AddressLine.class
+net\draconia\contactlist\domain\PhoneType.class
+net\draconia\contactlist\domain\AddressType.class
